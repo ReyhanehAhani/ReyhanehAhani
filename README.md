@@ -3,7 +3,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;AI+%26+ML+Enthusiast;Software+Engineer)](https://github.com/FarshidNooshi)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Sc.+of+Electrical+Engineering;Computer+Engineer+Minor;Amirkabir+University+of+Technology;AI+%26+ML+Enthusiast;)](https://github.com/ReyhanehAhani)    
 </div>
 
 # About me
