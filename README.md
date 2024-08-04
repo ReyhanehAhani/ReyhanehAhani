@@ -68,11 +68,7 @@ I am now working on multimodal models, specifically image and text, handling lar
     </tr>
 </table>
 
-<p align="center">
 
-  [![Reyhaneh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReyhanehAhani&theme=dracula&area=true)](https://github.com/ReyhanehAhani)
-
-</p>
 
 ## Contact Me
 
