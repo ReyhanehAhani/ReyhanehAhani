@@ -7,7 +7,7 @@
 </div>
 
 # About me
-As a Graduate Electrical Engineering Student and Computer Engineering Minor at the Amirkabir University of Technology (Tehran Polytechnic), I am passionate about Artificial Intelligence and Machine/Deep Learning, specially image processing and natural language processing and data analysing. My expertise includes proficient programming skills in Python and JavaScript.
+As Master student in Computer Engineering and a Graduate Electrical Engineering Student and Computer Engineering Minor, I am passionate about Artificial Intelligence and Machine/Deep Learning, specially image processing and natural language processing and data analysing. My expertise includes proficient programming skills in Python.
 
 I am always eager to expand my knowledge in the field of computer engineering and am dedicated to producing high-quality work. If you have any questions or problems with my codes or knowledge, I will be more than happy to assist.
 
