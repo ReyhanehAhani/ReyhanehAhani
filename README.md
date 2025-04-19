@@ -7,7 +7,7 @@
 </div>
 
 # About me
-As Master student in Computer Engineering and a Graduate Electrical Engineering Student and Computer Engineering Minor, I am passionate about Artificial Intelligence and Machine/Deep Learning, specially image processing and natural language processing and data analysing. My expertise includes proficient programming skills in Python.
+As a Master’s student in Computer Engineering and a data analyst in Vancouver, I am passionate about Artificial Intelligence, particularly in areas such as LLMs, image processing, and natural language processing. My expertise includes strong programming skills in Python and hands-on experience with machine and deep learning techniques.
 
 I am always eager to expand my knowledge in the field of computer engineering and am dedicated to producing high-quality work. If you have any questions or problems with my codes or knowledge, I will be more than happy to assist.
 
