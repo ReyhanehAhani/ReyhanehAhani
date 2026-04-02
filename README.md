@@ -58,17 +58,6 @@ I am now working on multimodal models, specifically image and text, handling lar
 </p>
 
 
-## My Github account information is as follows:
-
-<table style="border:hidden;" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyhanehAhani&layout=compact&hide_border=true&theme=dracula&langs_count=9"/>
-        </td>
-    </tr>
-</table>
-
-
 
 ## Contact Me
 
