@@ -64,10 +64,10 @@ I am now working on multimodal models, specifically image and text, handling lar
 Feel free to contact me via the following links:
 
 <div align="center">
-        <a href="https://www.linkedin.com/in/reyhaneh-ahani-a38ba91b9/">
+        <a href="https://www.linkedin.com/in/reyhanehahani/">
             <img alt="Reyhaneh Ahani's LinkedIn" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
         </a>
-        <a href="mailto:reyhaneh.ahanii@gtmail.com">
+        <a href="mailto:raa112@sfu.ca">
             <img alt="Reyhaneh Ahani's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
           
      
