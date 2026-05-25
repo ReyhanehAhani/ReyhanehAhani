@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24">
+          <defs>
+<linearGradient id="grad-visionshopper-icon" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#C2410C"/>
+  <stop offset="100%" stop-color="#EA580C"/>
+</linearGradient>
+</defs>
+          <g fill="none" stroke="url(#grad-visionshopper-icon)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></g>
+        </svg>

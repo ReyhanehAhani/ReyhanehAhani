@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="22" viewBox="0 0 83 22">
+          <defs>
+<linearGradient id="grad-diabet-xai" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#BE123C"/>
+  <stop offset="100%" stop-color="#E11D48"/>
+</linearGradient>
+</defs>
+          <text x="0" y="16" fill="url(#grad-diabet-xai)" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="15" font-weight="600">Diabet XAI</text>
+        </svg>
