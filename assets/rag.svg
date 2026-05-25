@@ -2,8 +2,8 @@
           <title>RAG</title>
           <defs>
 <linearGradient id="grad-rag" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%" stop-color="#5B21B6"/>
-  <stop offset="100%" stop-color="#7C3AED"/>
+  <stop offset="0%" stop-color="#1D4E89"/>
+  <stop offset="100%" stop-color="#2563EB"/>
 </linearGradient>
 </defs>
           <rect width="58" height="20" fill="url(#grad-rag)" rx="10"/>

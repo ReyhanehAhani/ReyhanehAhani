@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="154" height="22" viewBox="0 0 154 22">
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="22" viewBox="0 0 123 22">
           <defs>
-<linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%" stop-color="#6366F1"/>
-  <stop offset="50%" stop-color="#8B5CF6"/>
-  <stop offset="100%" stop-color="#A855F7"/>
+<linearGradient id="grad-arxiv-paper" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#1D4E89"/>
+  <stop offset="100%" stop-color="#2563EB"/>
 </linearGradient>
 </defs>
-          <text x="0" y="16" fill="url(#grad)" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="15" font-weight="600">LangDepth Paper</text>
+          <text x="0" y="16" fill="url(#grad-arxiv-paper)" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="15" font-weight="600">LangDepth Paper</text>
         </svg>

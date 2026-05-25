@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24">
           <defs>
-<linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%" stop-color="#6366F1"/>
-  <stop offset="50%" stop-color="#8B5CF6"/>
-  <stop offset="100%" stop-color="#A855F7"/>
+<linearGradient id="grad-adadepthclip-icon" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#1F4E6D"/>
+  <stop offset="100%" stop-color="#336791"/>
 </linearGradient>
 </defs>
-          <g fill="none" stroke="url(#grad)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></g>
+          <g fill="none" stroke="url(#grad-adadepthclip-icon)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></g>
         </svg>

@@ -2,8 +2,8 @@
           <title>Email</title>
           <defs>
 <linearGradient id="grad-email" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%" stop-color="#6366F1"/>
-  <stop offset="100%" stop-color="#A855F7"/>
+  <stop offset="0%" stop-color="#DC2626"/>
+  <stop offset="100%" stop-color="#EF4444"/>
 </linearGradient>
 </defs>
           <rect width="58" height="20" fill="url(#grad-email)" rx="10"/>
