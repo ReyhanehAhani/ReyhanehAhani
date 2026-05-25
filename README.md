@@ -1,8 +1,17 @@
 # Hi, I'm Rehana 👋
 
-<img src="./assets/lucide-map-pin-v2.svg" align="absmiddle" /> Toronto, Canada · open to relocation | <img src="./assets/lucide-brain-v2.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
+<img
+  src="./assets/lucide-map-pin-v2.svg"
+  align="absmiddle"
+  style="vertical-align: middle; filter: invert(39%) sepia(84%) saturate(1700%) hue-rotate(230deg) brightness(98%) contrast(95%);"
+/> Toronto, Canada · open to relocation |
+<img
+  src="./assets/lucide-brain-v2.svg"
+  align="absmiddle"
+  style="vertical-align: middle; filter: invert(39%) sepia(84%) saturate(1700%) hue-rotate(230deg) brightness(98%) contrast(95%);"
+/> Big Data Analyst · AI researcher · M.CompEng @ SFU
 
-I'm a Master's student in **Computer Engineering** and a **Big Data Analyst** at the SFU Big Data Hub. I'm passionate about **Artificial Intelligence**, especially LLMs, image processing, and NLP, and I build end-to-end ML systems that survive messy real-world data: ingestion across APIs and geospatial layers, careful validation (spatial and temporal holdouts), and clear handoff to stakeholders.
+I'm a **Big Data Analyst** at the Big Data Hub and a Master's student in **Computer Engineering** at SFU. I'm passionate about **Artificial Intelligence**, especially LLMs, image processing, and NLP, and I build end-to-end ML systems that survive messy real-world data: ingestion across APIs and geospatial layers, careful validation (spatial and temporal holdouts), and clear handoff to stakeholders.
 
 I'm a fast learner, highly motivated, and always eager to take on new challenges. I'm currently working on **multimodal models** (image + text) and **retrieval-augmented LLM pipelines** for long-form, structured text. Ready to join innovative and challenging projects :)
 
