@@ -57,8 +57,8 @@ ICON_PATHS = {
 }
 
 
-def estimate_text_width(label: str, char_px: float = 8.1) -> int:
-    return max(24, int(len(label) * char_px) + 2)
+def estimate_text_width(label: str, char_px: float = 10.5) -> int:
+    return max(30, int(len(label) * char_px) + 8)
 
 
 def gradient_def(grad_id: str, color_start: str, color_end: str) -> str:
@@ -75,7 +75,7 @@ def write_text_logo(name: str, label: str, color_start: str, color_end: str) -> 
     grad_id = f"grad-{name}"
     svg = textwrap.dedent(
         f"""\
-        <svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="22" viewBox="0 0 {width} 22">
+        <svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="22" viewBox="0 0 {width} 22" overflow="visible">
           <defs>{gradient_def(grad_id, color_start, color_end)}</defs>
           <text x="0" y="16" fill="url(#{grad_id})" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="15" font-weight="600">{label}</text>
         </svg>
