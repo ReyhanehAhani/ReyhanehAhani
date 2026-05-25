@@ -1,12 +1,12 @@
-# Hi, I'm Reyhaneh 👋
+# Hi, I'm Rehana 👋
 
-<img src="./assets/lucide-map-pin.svg" align="absmiddle" /> Vancouver, Canada · open to relocation | <img src="./assets/lucide-brain.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
+<img src="./assets/lucide-map-pin.svg" align="absmiddle" /> Toronto, Canada · open to relocation | <img src="./assets/lucide-brain.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
 
 I'm a Master's student in **Computer Engineering** and a **Big Data Analyst** at the SFU Big Data Hub. I'm passionate about **Artificial Intelligence** — especially LLMs, image processing, and NLP — and I build end-to-end ML systems that survive messy real-world data: ingestion across APIs and geospatial layers, careful validation (spatial and temporal holdouts), and clear handoff to stakeholders.
 
 I'm a fast learner, highly motivated, and always eager to take on new challenges. I'm currently working on **multimodal models** (image + text) and **retrieval-augmented LLM pipelines** for long-form, structured text. Ready to join innovative and challenging projects :)
 
-![Python](./assets/python.svg) ![PyTorch](./assets/pytorch.svg) ![TensorFlow](./assets/tensorflow.svg) ![Docker](./assets/docker.svg) ![AWS](./assets/aws.svg) ![LangGraph](./assets/langgraph.svg) ![RAG](./assets/rag.svg) ![FastAPI](./assets/fastapi.svg) ![PostgreSQL](./assets/postgresql.svg) ![MySQL](./assets/mysql.svg) ![C](./assets/c.svg) ![C++](./assets/cpp.svg) ![MATLAB](./assets/matlab.svg) ![LaTeX](./assets/latex.svg) ![Arduino](./assets/arduino.svg)
+![Python](./assets/python.svg) ![PyTorch](./assets/pytorch.svg) ![TensorFlow](./assets/tensorflow.svg) ![Docker](./assets/docker.svg) ![AWS](./assets/aws.svg) ![LangGraph](./assets/langgraph.svg) ![RAG](./assets/rag.svg) ![FastAPI](./assets/fastapi.svg) ![PostgreSQL](./assets/postgresql.svg) ![MySQL](./assets/mysql.svg) ![C](./assets/c.svg) ![C++](./assets/cpp.svg)
 
 ## Let's Connect
 
@@ -22,8 +22,6 @@ I'm a fast learner, highly motivated, and always eager to take on new challenges
 
 <p><a href="https://github.com/ReyhanehAhani/VisionShopper"><img src="./text/visionshopper-icon.svg" align="absmiddle" /><img src="./text/visionshopper.svg" align="absmiddle" alt="VisionShopper" /></a> : Multimodal shopping assistant with image compression and async PostgreSQL pipeline. <a href="https://vision-shopper.vercel.app">Live →</a></p>
 
-<p><a href="https://github.com/ReyhanehAhani/AdaDepthCLIP"><img src="./text/adadepthclip-icon.svg" align="absmiddle" /><img src="./text/adadepthclip.svg" align="absmiddle" alt="AdaDepthCLIP" /></a> : Lightweight CLIP adapters for monocular depth; frozen ViT-B/32 backbone with scale-invariant + gradient loss.</p>
-
 ## More Work
 
 <p><a href="https://github.com/ReyhanehAhani/FAIRSEQ-EN-FA-translation"><img src="./text/fairseq-en-fa-icon.svg" align="absmiddle" /><img src="./text/fairseq-en-fa.svg" align="absmiddle" alt="FAIRSEQ EN-FA" /></a> : English–Persian neural MT in FAIRSEQ: LSTM and Transformer baselines, scored with COMET.</p>
@@ -38,13 +36,13 @@ I'm a fast learner, highly motivated, and always eager to take on new challenges
 
 ## Experience
 
-**Big Data Analyst · SFU Big Data Hub** (Feb 2025 – present) — Automated Telus mobility + weather + GIS ingestion for a government fisheries program; GLMMs with holdout-by-lake validation.
+**Big Data Analyst · SFU Big Data Hub** (Feb 2025 – present): Automated Telus mobility + weather + GIS ingestion for a government fisheries program; GLMMs with holdout-by-lake validation.
 
-**Graduate Research Assistant · SFU** (Jan 2025 – present) — LangDepth: language-guided monocular depth with multimodal fusion and zero-shot transfer.
+**Graduate Research Assistant · SFU** (Jan 2025 – Jun 2026): LangDepth: language-guided monocular depth with multimodal fusion and zero-shot transfer.
 
-**Graduate Applied Researcher · SFU** (Dec 2025 – present) — Legal RAG with citation-friendly chunking and evals that penalize unsupported answers.
+**Applied ML Researcher · SFU** (Dec 2025 – present): Legal RAG with citation-friendly chunking and evals that penalize unsupported answers.
 
-**ML Engineer · Metra Consultant Company** (Jan 2024 – Dec 2024) — FastAPI services for transportation logistics; route and cost prediction from spatiotemporal inputs.
+**ML Engineer · Metra Consultant Company** (Jan 2024 – Dec 2024): FastAPI services for transportation logistics; route and cost prediction from spatiotemporal inputs.
 
 ## Education
 
