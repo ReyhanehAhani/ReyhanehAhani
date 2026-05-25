@@ -29,7 +29,7 @@ I'm a fast learner, highly motivated, and always eager to take on new challenges
 
 <p><a href="https://github.com/ReyhanehAhani/LegalRAG"><img src="./text/legalrag-icon-v2.svg" align="absmiddle" /><img src="./text/legalrag-v2.svg" align="absmiddle" alt="LegalRAG" /></a>: Agentic legal QA over Canadian case law: LangGraph multi-step workflows, tool-augmented retrieval, Pydantic-validated outputs, and verifier agents that block unsupported claims.</p>
 
-<p><a href="https://github.com/ReyhanehAhani/VisionShopper"><img src="./text/visionshopper-icon-v2.svg" align="absmiddle" /><img src="./text/visionshopper-v2.svg" align="absmiddle" alt="VisionShopper" /></a>: Multimodal shopping assistant with image compression and async PostgreSQL pipeline. <a href="https://vision-shopper.vercel.app">Live →</a></p>
+<p><a href="https://github.com/ReyhanehAhani/VisionShopper"><img src="./text/visionshopper-icon-v2.svg" align="absmiddle" /><img src="./text/visionshopper-v2.svg" align="absmiddle" alt="VisionShopper" /></a>: Multimodal shopping assistant with image compression and async PostgreSQL pipeline.</p>
 
 ## More Work
 
