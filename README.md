@@ -1,4 +1,4 @@
-# Hi, I'm Reyhaneh 👋
+# Hi, I'm Rehana 👋
 
 <img src="./assets/lucide-map-pin.svg" align="absmiddle" /> Toronto, Canada · open to relocation | <img src="./assets/lucide-brain.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
 
