@@ -22,8 +22,6 @@ I'm a fast learner, highly motivated, and always eager to take on new challenges
 
 <p><a href="https://github.com/ReyhanehAhani/VisionShopper"><img src="./text/visionshopper-icon.svg" align="absmiddle" /><img src="./text/visionshopper.svg" align="absmiddle" alt="VisionShopper" /></a> — Multimodal shopping assistant with image compression and async PostgreSQL pipeline. <a href="https://vision-shopper.vercel.app">Live →</a></p>
 
-<p><a href="https://github.com/ReyhanehAhani/AdaDepthCLIP"><img src="./text/adadepthclip-icon.svg" align="absmiddle" /><img src="./text/adadepthclip.svg" align="absmiddle" alt="AdaDepthCLIP" /></a> — Lightweight CLIP adapters for monocular depth; frozen ViT-B/32 backbone with scale-invariant + gradient loss.</p>
-
 ## More Work
 
 <p><a href="https://github.com/ReyhanehAhani/FAIRSEQ-EN-FA-translation"><img src="./text/fairseq-en-fa-icon.svg" align="absmiddle" /><img src="./text/fairseq-en-fa.svg" align="absmiddle" alt="FAIRSEQ EN-FA" /></a> — English–Persian neural MT in FAIRSEQ: LSTM and Transformer baselines, scored with COMET.</p>
