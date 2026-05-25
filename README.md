@@ -36,13 +36,13 @@ I'm a fast learner, highly motivated, and always eager to take on new challenges
 
 ## Experience
 
-**Big Data Analyst · SFU Big Data Hub** (Feb 2025 – present) — Automated Telus mobility + weather + GIS ingestion for a government fisheries program; GLMMs with holdout-by-lake validation.
+**Big Data Analyst · SFU Big Data Hub** (Feb 2025 – present): Automated Telus mobility + weather + GIS ingestion for a government fisheries program; GLMMs with holdout-by-lake validation.
 
-**Graduate Research Assistant · SFU** (Jan 2025 – present) — LangDepth: language-guided monocular depth with multimodal fusion and zero-shot transfer.
+**Graduate Research Assistant · SFU** (Jan 2025 – Jun 2026): LangDepth: language-guided monocular depth with multimodal fusion and zero-shot transfer.
 
-**Graduate Applied Researcher · SFU** (Dec 2025 – present) — Legal RAG with citation-friendly chunking and evals that penalize unsupported answers.
+**Applied ML Researcher · SFU** (Dec 2025 – present): Legal RAG with citation-friendly chunking and evals that penalize unsupported answers.
 
-**ML Engineer · Metra Consultant Company** (Jan 2024 – Dec 2024) — FastAPI services for transportation logistics; route and cost prediction from spatiotemporal inputs.
+**ML Engineer · Metra Consultant Company** (Jan 2024 – Dec 2024): FastAPI services for transportation logistics; route and cost prediction from spatiotemporal inputs.
 
 ## Education
 
