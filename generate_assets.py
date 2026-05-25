@@ -63,16 +63,48 @@ def write_icon(name: str, icon_key: str) -> None:
     (TEXT / f"{name}-icon.svg").write_text(svg + "\n", encoding="utf-8")
 
 
-def badge(label: str, icon_svg: str, width: int | None = None) -> str:
+TECH_COLORS: dict[str, tuple[str, str]] = {
+    "python": ("#1D4E89", "#3776AB"),
+    "pytorch": ("#B02A1B", "#EE4C2C"),
+    "tensorflow": ("#C2410C", "#EA580C"),
+    "docker": ("#1D7AD8", "#2496ED"),
+    "aws": ("#CC7A00", "#FF9900"),
+    "langgraph": ("#0F766E", "#14B8A6"),
+    "rag": ("#5B21B6", "#7C3AED"),
+    "fastapi": ("#00796B", "#009688"),
+    "postgresql": ("#1F4E6D", "#336791"),
+    "mysql": ("#2F5D85", "#4479A1"),
+    "c": ("#004482", "#00599C"),
+    "cpp": ("#003B6F", "#659AD2"),
+    "matlab": ("#A63D00", "#E67300"),
+    "latex": ("#006D6D", "#20B2AA"),
+    "arduino": ("#006B6E", "#00979D"),
+}
+
+
+def badge(
+    label: str,
+    icon_svg: str,
+    width: int | None = None,
+    color_start: str = "#6366F1",
+    color_end: str = "#A855F7",
+) -> str:
     text_len = len(label) * 70 + 40
     badge_width = width or max(58, text_len // 10 + 24)
+    grad_id = f"grad-{label.lower().replace(' ', '-').replace('+', 'plus')}"
     icon_b64 = base64.b64encode(icon_svg.encode("utf-8")).decode("ascii")
+    gradient = f"""
+<linearGradient id="{grad_id}" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="{color_start}"/>
+  <stop offset="100%" stop-color="{color_end}"/>
+</linearGradient>
+"""
     return textwrap.dedent(
         f"""\
         <svg xmlns="http://www.w3.org/2000/svg" width="{badge_width}" height="20" role="img" aria-label="{label}">
           <title>{label}</title>
-          <defs>{GRADIENT}</defs>
-          <rect width="{badge_width}" height="20" fill="url(#grad)" rx="10"/>
+          <defs>{gradient}</defs>
+          <rect width="{badge_width}" height="20" fill="url(#{grad_id})" rx="10"/>
           <image x="5" y="3" width="14" height="14" href="data:image/svg+xml;base64,{icon_b64}"/>
           <text x="24" y="14" fill="#fff" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="11" font-weight="600">{label}</text>
         </svg>
@@ -138,7 +170,17 @@ def main() -> None:
         }[name if name != "pytorch-alt" else "pytorch"]
         if name == "pytorch-alt":
             continue
-        (ASSETS / f"{name}.svg").write_text(badge(label, f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">{icon}</svg>') + "\n", encoding="utf-8")
+        start, end = TECH_COLORS[name]
+        (ASSETS / f"{name}.svg").write_text(
+            badge(
+                label,
+                f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">{icon}</svg>',
+                color_start=start,
+                color_end=end,
+            )
+            + "\n",
+            encoding="utf-8",
+        )
 
     social_icons = {
         "linkedin": '<path fill="white" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1-2.063-2.065 2.063 2.063 0 0 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>',
