@@ -1,12 +1,12 @@
 # Hi, I'm Reyhaneh 👋
 
-<img src="./assets/lucide-map-pin.svg" align="absmiddle" /> Vancouver, Canada · open to relocation | <img src="./assets/lucide-brain.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
+<img src="./assets/lucide-map-pin.svg" align="absmiddle" /> Toronto, Canada · open to relocation | <img src="./assets/lucide-brain.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
 
 I'm a Master's student in **Computer Engineering** and a **Big Data Analyst** at the SFU Big Data Hub. I'm passionate about **Artificial Intelligence** — especially LLMs, image processing, and NLP — and I build end-to-end ML systems that survive messy real-world data: ingestion across APIs and geospatial layers, careful validation (spatial and temporal holdouts), and clear handoff to stakeholders.
 
 I'm a fast learner, highly motivated, and always eager to take on new challenges. I'm currently working on **multimodal models** (image + text) and **retrieval-augmented LLM pipelines** for long-form, structured text. Ready to join innovative and challenging projects :)
 
-![Python](./assets/python.svg) ![PyTorch](./assets/pytorch.svg) ![TensorFlow](./assets/tensorflow.svg) ![Docker](./assets/docker.svg) ![AWS](./assets/aws.svg) ![LangGraph](./assets/langgraph.svg) ![RAG](./assets/rag.svg) ![FastAPI](./assets/fastapi.svg) ![PostgreSQL](./assets/postgresql.svg) ![MySQL](./assets/mysql.svg) ![C](./assets/c.svg) ![C++](./assets/cpp.svg) ![MATLAB](./assets/matlab.svg) ![LaTeX](./assets/latex.svg) ![Arduino](./assets/arduino.svg)
+![Python](./assets/python.svg) ![PyTorch](./assets/pytorch.svg) ![TensorFlow](./assets/tensorflow.svg) ![Docker](./assets/docker.svg) ![AWS](./assets/aws.svg) ![LangGraph](./assets/langgraph.svg) ![RAG](./assets/rag.svg) ![FastAPI](./assets/fastapi.svg) ![PostgreSQL](./assets/postgresql.svg) ![MySQL](./assets/mysql.svg) ![C](./assets/c.svg) ![C++](./assets/cpp.svg)
 
 ## Let's Connect
 
