@@ -1,6 +1,6 @@
 # Hi, I'm Rehana 👋
 
-<img src="./assets/lucide-map-pin-v2.svg" align="absmiddle" /> Toronto, Canada · open to relocation | <img src="./assets/lucide-brain-v2.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
+<img src="./assets/lucide-map-pin-v2.svg" align="absmiddle" /> Vancouver, Canada · open to relocation | <img src="./assets/lucide-brain-v2.svg" align="absmiddle" /> Big Data Analyst · AI researcher · M.CompEng @ SFU
 
 I'm a **Big Data Analyst** at the Big Data Hub and a Master's student in **Computer Engineering** at SFU. I'm passionate about **Artificial Intelligence**, especially LLMs, image processing, and NLP, and I build end-to-end ML systems that survive messy real-world data: ingestion across APIs and geospatial layers, careful validation (spatial and temporal holdouts), and clear handoff to stakeholders.
 
